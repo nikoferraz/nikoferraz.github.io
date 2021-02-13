@@ -1,0 +1,16 @@
+# some information about you
+name: "Nicholas Ferraz"
+nickname: "Nick"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/nick.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "caixadonick@gmail.com"
+# phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - Software Engineer
+  - Computer Science Graduate Student
+  - Problem Solver

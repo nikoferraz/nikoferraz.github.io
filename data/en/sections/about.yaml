@@ -1,0 +1,71 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: The Prairie Research Institute at the University of Illinois Champaign-Urbana.
+  url: "https://www.prairie.illinois.edu"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/nicholas_ferraz_resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate Software Engineer with over years of experience developing web applications using PHP, JavaScript, SQL, Python and Linux. My pronouns are he/him/his.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/nikoferraz"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nicholasferraz/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/nichoferraz"
+
+- name: HackerRank
+  icon: "fab fa-hackerrank"
+  url: "https://www.hackerrank.com/nichoferraz"
+
+- name: CodeSignal Assessment
+  icon: "fas fa-code"
+  url: "https://app.codesignal.com/coding-report/afP5jjRo2j4MGEEGG-nJXSJZmtw3zJETgC94mdMEp7/Dyphq4wyKCwndxBu3"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Communication
+  percentage: 95
+  color: green
+- name: Problem Solving
+  percentage: 100
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Empathy
+  percentage: 90
+  color: pink
+- name: Curiosity
+  percentage: 90
+  color: orange
+- name: Patience
+  percentage: 85
+  color: green
+- name: Leadership
+  percentage: 65
+  color: sky
+

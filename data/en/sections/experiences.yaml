@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Prairie Research Institute, University of Illinois at Champaign-Urbana
+    url: "https://prairie.illinois.edu"
+    location: Champaign, IL
+    # company overview
+    overview: The Prairie Research Institute is the umbrella organization that oversees the administrative side of the State of Illinois Surveys.
+  positions:
+  - designation: Software Engineer
+    start: Jul 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop custom applications, plugins, themes, etc., using PHP, JavaScript, HTML, CSS and other relevant tools.
+    - Monitor website uptime and performance, and research and implement techniques to improve performace.
+    - Work with non-technical stakeholders on the development of new applications, including gathering requirements.
+
+- company:
+    name: Library, University of Illinois at Champaign-Urbana
+    url: "https://library.illinois.edu/"
+    location: Champaign, IL
+    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Junior Web Developer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Ensure Library website is in compliance with IITAA and WCAG 2.0 web accessibility standards
+    - Employ best practices to create responsive web pages using HTML/CSS and Bootstrap
+    - Develop WordPress plugins and shortcodes using PHP, JavaScript, and HTML/CSS
+    - Developed Python scripts to parse HTML files and migrate site from OpenCMS to WordPress
+
+- company:
+    name: Self-Employed
+    url: "https://www.intern.com"
+    location: Chicago, IL
+    overview: Worked as an independent web developer.
+  positions:
+  - designation: Freelance Web Developer
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - As my debut into the world of web development I had to generate my own leads through various sources.
+    - Developed web sites using HTML, CSS, JavaScript, Bootstrap, WordPress and other tools/libraries/frameworks.

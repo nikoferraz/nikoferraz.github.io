@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: M.Sc. in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2019-Present
+  institution:
+    name: University of Illinois at Springfield
+    url: "https://www.uis.edu/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 4
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+      - name: CSC 583 Network Programming
+      - name: CSC 484 Introduction to Parallel Processing
+      - name: CSC 472 Intro to Database Systems
+      - name: CSC 470 Cybersecurity Competition
+      - name: CSC 389 Introduction to Operating Systems
+      - name: CSC 376 Computer Organization
+      - name: MAT 121 Applied Statistics
+      - name: CSC 388 Programming Languages
+- name: Non-degree Seeking, Computer Science
+  icon: fa-university
+  timeframe: 2014-2015
+  institution:
+    name: Northeastern Illinois University
+    url: "https://www.neiu.edu/"
+  takenCourses:
+    showGrades: false
+    courses:
+      - name: Programming I
+      - name: Programming II
+      - name: Discrete Structures
+      - name: Client Side Web Development
+      - name: Server Side Web Development
+      - name: Data Structures
+- name: B.A., History major, German minor
+  icon: fa-university
+  timeframe: 2007-2011
+  institution:
+    name: Knox College
+    url: "www.knox.edu"
+  extracurricularActivities: #(optional)
+  - In vitae facilisis est, eget porta sem.
+  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  - Duis sed massa feugiat, ornare justo et, aliquam est.
+  - Pellentesque ut fringilla magna.
+- name: American and Brazilian High School Diplomas
+  icon: fa-school
+  timeframe: 2005-2007
+  institution:
+    name: Escola Americana do Rio de Janeiro

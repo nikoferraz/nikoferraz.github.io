@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: JavaScript
+  logo: /images/sections/skills/js.png
+  summary: Using tp enhance the front-end with custom functionality.
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: I use Python for scripting and coding challenges.
+
+- name: PHP
+  logo: /images/sections/skills/php.png
+  summary: I use PHP mainly for custom WordPress plugin and theme development.
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: I've been using Java for 5 years. I currently use it mostly for graduate projects.
+
+- name: CSS
+  logo: /images/sections/skills/css.png
+  summary: Occasionally I use CSS to make websites prettier.
+
+- name: SASS
+  logo: /images/sections/skills/sass.png
+  summary: I use SASS to simplify the process of writing CSS.
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: I have been using MySQL and MariaDB since I started doing Web Development. It's an integral part of the back-end of most projects I work on.
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using it as the main operating system for several production servers. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
