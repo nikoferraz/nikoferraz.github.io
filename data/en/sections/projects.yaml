@@ -16,6 +16,8 @@ buttons:
     filter: 'professional'
   - name: Academic
     filter: 'academic'
+  - name: Hobby
+    filter: 'hobby'
 
 # your projects
 projects:
@@ -29,13 +31,26 @@ projects:
   - name: HTTP Server
     role: Owner
     timeline: 'Fall 2019'
-    repo: https://github.com/nikoferraz/http_server
     summary: For my final project in Network Programming I wrote this, fairly simple, multi-threaded HTTP web server in Java.
     tags: ['academic', 'networking', 'java']
+    url: "https://github.com/nikoferraz/http_server"
 
   - name: ISWS Data Request Application
     role: Back-end Developer
     timeline: 'Spring 2019'
-    repo: https://github.com/nikoferraz/http_server
     summary: The Illinois State Water Survey produces large amounts of data that are available for request. This application automates a large portion of the process of creating, editing, and notifying all parties involved of changes in status and updates in this process.
     tags: ['professional', 'web-application', 'website']
+    url: "https://www.isws-data.web.illinois.edu/"
+
+  - name: Exercism
+    role: Python Mentor
+    timeline: 'January 2021'
+    summary: I help folks that are learning to code in Python to improve their skills and write semantically correct, idiomatic code.
+    tags: ['hobby', 'mentorship']
+    url: 'https://exercism.io/'
+    logo: /images/sections/projects/exercism.png
+    repo: https://github.com/exercism/python
+
+
+
+

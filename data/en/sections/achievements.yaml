@@ -1,23 +1,18 @@
-# # section information
-# section:
-#   name: Achievements
-#   id: achievements
-#   enable: true
-#   weight: 6
-#   showOnNavbar: true
-#   # Can optionally hide the title in sections
-#   # hideTitle: true
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
-# # Your achievements achievements
-# achievements:
-#   - title: Finished in 23rd place overall, out of 925 teams, in the National Cyber
-#   League Spring 2020 Team Game.
-#     # image: /images/sections/achievements/ncl.png
-#     summary: Our team got 2nd place in Network Traffic Analysis, 3rd in
-#     Web Application Exploitation, 4th in Password Cracking and 5th place in Log Analysis.
-#   - title: Competed in the Gold Bracket in the National Cyber League
-#   Spring 2020 Individual Game
-#     # image: /images/sections/achievements/ncl.png
-#     summary: Finished in the 93rd National Percentile, as a first time
-#     competitor, against 5,357 participants. 98th Percentile in log
-#     analysis.
+# Your achievements achievements
+achievements:
+  - title: Finished in 23rd place overall, out of 925 teams, in the National Cyber League Spring 2020 Team Game.
+    image: /images/sections/achievements/ncl.png
+    summary: Our team got 2nd place in Network Traffic Analysis, 3rd in Web Application Exploitation, 4th in Password Cracking and 5th place in Log Analysis.
+  - title: Competed in the Gold Bracket in the National Cyber League Spring 2020 Individual Game
+    image: /images/sections/achievements/ncl.png
+    summary: Finished in the 93rd National Percentile, as a first time competitor, against 5,357 participants. 98th Percentile in log analysis.
