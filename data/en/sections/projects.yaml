@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: 'all'
+  - name: Professional
+    filter: 'professional'
+  - name: Academic
+    filter: 'academic'
+
+# your projects
+projects:
+  - name: University of Illinois Distributed Museum
+    role: Developer
+    timeline: 'Fall 2017'
+    summary: A collection of articles of notable accomplishments at the University of Illinois at Urbana-Champaign. The website aims to encourage the exploration of various sites containing items and places of interest.
+    tags: ['website', 'professional']
+    url: "https://distributedmuseum.illinois.edu/"
+
+  - name: HTTP Server
+    role: Owner
+    timeline: 'Fall 2019'
+    repo: https://github.com/nikoferraz/http_server
+    summary: For my final project in Network Programming I wrote this, fairly simple, multi-threaded HTTP web server in Java.
+    tags: ['academic', 'networking', 'java']
+
+  - name: ISWS Data Request Application
+    role: Back-end Developer
+    timeline: 'Spring 2019'
+    repo: https://github.com/nikoferraz/http_server
+    summary: The Illinois State Water Survey produces large amounts of data that are available for request. This application automates a large portion of the process of creating, editing, and notifying all parties involved of changes in status and updates in this process.
+    tags: ['professional', 'web-application', 'website']
