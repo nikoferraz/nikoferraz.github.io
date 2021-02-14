@@ -17,7 +17,7 @@ degrees:
     name: University of Illinois at Springfield
     url: "https://www.uis.edu/"
   grade: #(optional)
-    scale: CGPA
+    scale: GPA
     achieved: 4
     outOf: 4
   takenCourses: #(optional)
@@ -54,10 +54,10 @@ degrees:
     name: Knox College
     url: "www.knox.edu"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Vice-President of International Club
+  - Portuguese tutor
+  - Men's Ensemble
+  - Piano Lessons
 - name: American and Brazilian High School Diplomas
   icon: fa-school
   timeframe: 2005-2007
