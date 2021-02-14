@@ -15,7 +15,7 @@ company:
   url: "https://www.prairie.illinois.edu"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/nicholas_ferraz_resume.pdf"
+# resume: "files/nicholas_ferraz_resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate Software Engineer with over four years of experience developing web applications using PHP, JavaScript, SQL, Python and Linux. My pronouns are he/him/his.'
