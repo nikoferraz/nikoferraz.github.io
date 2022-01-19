@@ -10,9 +10,9 @@ section:
   # hideTitle: true
 
 degrees:
-- name: M.Sc. in Computer Science
+- name: MS in Computer Science
   icon: fa-graduation-cap
-  timeframe: 2019-Present
+  timeframe: 2019-2021
   institution:
     name: University of Illinois at Springfield
     url: "https://www.uis.edu/"
@@ -24,11 +24,15 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
+      - name: CSC 540 Graduate Research Seminar
+      - name: CSC 532 Intro to Machine Learning
+      - name: CSC 574 Distributed Computing
+      - name: CSC 570 Linux Practicum
       - name: CSC 583 Network Programming
-      - name: CSC 484 Introduction to Parallel Processing
+      - name: CSC 484 Intro to Parallel Processing
       - name: CSC 472 Intro to Database Systems
       - name: CSC 470 Cybersecurity Competition
-      - name: CSC 389 Introduction to Operating Systems
+      - name: CSC 389 Intro to Operating Systems
       - name: CSC 376 Computer Organization
       - name: MAT 121 Applied Statistics
       - name: CSC 388 Programming Languages
@@ -55,7 +59,7 @@ degrees:
     url: "www.knox.edu"
   extracurricularActivities: #(optional)
   - Vice-President of International Club
-  - Portuguese tutor
+  - Teaching Portuguese
   - Men's Ensemble
   - Piano Lessons
 - name: American and Brazilian High School Diplomas
