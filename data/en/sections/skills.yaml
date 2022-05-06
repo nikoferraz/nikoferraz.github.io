@@ -18,11 +18,11 @@ skills:
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: I use Python for scripting and coding challenges.
+  summary: Python is my primary programming language.
 
 - name: PHP
   logo: /images/sections/skills/php.png
-  summary: I use PHP mainly for custom WordPress plugin and theme development.
+  summary: I used PHP mainly for custom WordPress plugin and theme development.
 
 - name: Java
   logo: /images/sections/skills/java.png

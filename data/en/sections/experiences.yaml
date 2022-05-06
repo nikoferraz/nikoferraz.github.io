@@ -11,16 +11,31 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: The Volchenboum Lab, University of Chicago
+    url: "https://commons.cri.uchicago.edu/"
+    location: Remote
+    # company overview
+    overview: The Volchenboum Lab is a diverse team of experts in medicine, clinical research, data standards, data infrastructure and programming, data governance, and international data sharing regulations.
+  positions:
+  - designation: Full Stack Developer
+    start: May 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop and maintain the backend for Pediatric Cancer Data Commons.
+
+- company:
     name: Technology Services, University of Illinois at Champaign-Urbana
     url: "https://techservices.illinois.edu/"
-    location: Champaign, IL
+    location: Remote
     # company overview
     overview: Technology Services provides campus-wide technology solutions that support the teaching, learning, and research missions of the University of Illinois at Urbana-Champaign. We partner with other departmental IT staff to serve nearly 60,000 faculty, staff, and students.
   positions:
   - designation: Software Developer
     start: Mar 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Apr 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Develop and maintain custom applications using Python, Flask, Django and JavaScript.
