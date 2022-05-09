@@ -11,14 +11,14 @@ section:
 designation: Software Engineer
 # your company information
 company:
-  name: The Prairie Research Institute at the University of Illinois Champaign-Urbana.
-  url: "https://www.prairie.illinois.edu"
+  name: The Pediatric Cancer Data Commons at the University of Chicago.
+  url: "https://commons.cri.uchicago.edu/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume_Nick Ferraz.pdf"
 
 # a summary about you
-summary: 'I am a passionate Software Engineer with over four years of experience developing web applications using PHP, JavaScript, SQL, Python and Linux. My pronouns are he/him/his.'
+summary: 'I am a passionate Software Engineer with over five years of experience developing applications using Python, JavaScript, SQL, PHP and Linux. My pronouns are he/him/his.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -66,7 +66,7 @@ softSkills:
   percentage: 85
   color: green
 - name: Leadership
-  percentage: 65
+  percentage: 85
   color: sky
 - name: Accountability
   percentage: 100
